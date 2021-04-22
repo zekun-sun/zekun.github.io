@@ -43,26 +43,10 @@
   background-color: #54615F;
 }
 
-#proj1:hover .overlay {
+.image:hover .overlay {
   opacity: 0.9;
 }
 
-#proj2:hover .overlay {
-  opacity: 0.9;
-}
-
-#proj3:hover .overlay {
-  opacity: 0.9;
-}
-
-#proj4:hover .overlay {
-  opacity: 0.9;
-}
-
-
-#proj5:hover .overlay {
-  opacity: 0.9;
-}
 
 .text {
   color: white;
